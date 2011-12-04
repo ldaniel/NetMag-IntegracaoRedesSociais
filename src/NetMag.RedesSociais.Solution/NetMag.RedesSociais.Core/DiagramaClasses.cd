@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Comment CommentText="Facade de serviços">
+    <Position X="0.729" Y="0.75" Height="0.469" Width="2.419" />
+  </Comment>
+  <Comment CommentText="Serviços de redes sociais">
+    <Position X="3.625" Y="0.729" Height="0.469" Width="6.168" />
+  </Comment>
+  <Comment CommentText="Integração com os SDKs de Twitter">
+    <Position X="3.989" Y="3.166" Height="0.469" Width="5.512" />
+  </Comment>
+  <Class Name="NetMag.RedesSociais.Core.ServicoFacade">
+    <Position X="0.75" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAEAAQAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>ServicoFacade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetMag.RedesSociais.Core.Servicos.Twitter.LinqToTwitterProxy">
+    <Position X="4" Y="4" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAEAAQAAAAAAAAAAAAADAA=</HashCode>
+      <FileName>Servicos\Twitter\LinqToTwitterProxy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NetMag.RedesSociais.Core.Servicos.Twitter.TweetSharpProxy">
+    <Position X="7" Y="4" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgQAAAAggAAAAAAAEAARAAAAAAACAAAAAAgA=</HashCode>
+      <FileName>Servicos\Twitter\TweetSharpProxy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NetMag.RedesSociais.Core.Servicos.Configuracao">
+    <Position X="7.25" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAACAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Servicos\Configuracao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="NetMag.RedesSociais.Interfaces.ITwitter">
+    <Position X="4" Y="1.5" Width="2.25" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

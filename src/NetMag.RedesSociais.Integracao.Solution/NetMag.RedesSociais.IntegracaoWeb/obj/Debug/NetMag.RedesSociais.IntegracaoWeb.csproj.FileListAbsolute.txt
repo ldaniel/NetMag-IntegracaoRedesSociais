@@ -1,0 +1,5 @@
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Integracao.Solution\NetMag.RedesSociais.IntegracaoWeb\bin\NetMag.RedesSociais.IntegracaoWeb.dll
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Integracao.Solution\NetMag.RedesSociais.IntegracaoWeb\bin\NetMag.RedesSociais.IntegracaoWeb.pdb
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Integracao.Solution\NetMag.RedesSociais.IntegracaoWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Integracao.Solution\NetMag.RedesSociais.IntegracaoWeb\obj\Debug\NetMag.RedesSociais.IntegracaoWeb.dll
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Integracao.Solution\NetMag.RedesSociais.IntegracaoWeb\obj\Debug\NetMag.RedesSociais.IntegracaoWeb.pdb

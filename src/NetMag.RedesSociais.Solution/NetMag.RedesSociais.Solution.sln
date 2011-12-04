@@ -1,0 +1,89 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMag.RedesSociais.Interfaces", "NetMag.RedesSociais.Interfaces\NetMag.RedesSociais.Interfaces.csproj", "{367F3FED-1AC8-42C5-943E-FC78FD0B8D9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMag.RedesSociais.Core", "NetMag.RedesSociais.Core\NetMag.RedesSociais.Core.csproj", "{0668A962-CC9E-4D56-A1C3-C5BE9F544213}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "References", "References", "{940C699F-1651-4610-A794-646591F0C673}"
+	ProjectSection(SolutionItems) = preProject
+		References\Dharma.Vimeo.dll = References\Dharma.Vimeo.dll
+		References\DotNetOpenAuth.dll = References\DotNetOpenAuth.dll
+		References\FlickrNet.dll = References\FlickrNet.dll
+		References\Kerr.Credentials.dll = References\Kerr.Credentials.dll
+		References\LinkedIn.dll = References\LinkedIn.dll
+		References\LinqToTwitter.dll = References\LinqToTwitter.dll
+		References\log4net.dll = References\log4net.dll
+		References\Microsoft.Practices.EnterpriseLibrary.Common.dll = References\Microsoft.Practices.EnterpriseLibrary.Common.dll
+		References\Microsoft.Practices.ServiceLocation.dll = References\Microsoft.Practices.ServiceLocation.dll
+		References\Microsoft.Practices.Unity.Configuration.dll = References\Microsoft.Practices.Unity.Configuration.dll
+		References\Microsoft.Practices.Unity.dll = References\Microsoft.Practices.Unity.dll
+		References\Microsoft.Practices.Unity.Interception.dll = References\Microsoft.Practices.Unity.Interception.dll
+		References\OAuthLib.dll = References\OAuthLib.dll
+		References\TweetSharp.dll = References\TweetSharp.dll
+		References\TweetSharp.Twitter.dll = References\TweetSharp.Twitter.dll
+		References\VimeoAPI.dll = References\VimeoAPI.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMag.RedesSociais.ConsoleApp", "NetMag.RedesSociais.ConsoleApp\NetMag.RedesSociais.ConsoleApp.csproj", "{ED49E342-ACD9-40F4-B850-FD5F5DFC0C4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMag.RedesSociais.Notificador", "NetMag.RedesSociais.Notificador\NetMag.RedesSociais.Notificador.csproj", "{04CE66F9-3B26-4BA9-8F1C-980F821D32E2}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = NetMag.RedesSociais.Solution.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{367F3FED-1AC8-42C5-943E-FC78FD0B8D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{367F3FED-1AC8-42C5-943E-FC78FD0B8D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{367F3FED-1AC8-42C5-943E-FC78FD0B8D9F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{367F3FED-1AC8-42C5-943E-FC78FD0B8D9F}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{367F3FED-1AC8-42C5-943E-FC78FD0B8D9F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{367F3FED-1AC8-42C5-943E-FC78FD0B8D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{367F3FED-1AC8-42C5-943E-FC78FD0B8D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{367F3FED-1AC8-42C5-943E-FC78FD0B8D9F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{367F3FED-1AC8-42C5-943E-FC78FD0B8D9F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{367F3FED-1AC8-42C5-943E-FC78FD0B8D9F}.Release|x86.ActiveCfg = Release|Any CPU
+		{0668A962-CC9E-4D56-A1C3-C5BE9F544213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0668A962-CC9E-4D56-A1C3-C5BE9F544213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0668A962-CC9E-4D56-A1C3-C5BE9F544213}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{0668A962-CC9E-4D56-A1C3-C5BE9F544213}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{0668A962-CC9E-4D56-A1C3-C5BE9F544213}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0668A962-CC9E-4D56-A1C3-C5BE9F544213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0668A962-CC9E-4D56-A1C3-C5BE9F544213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0668A962-CC9E-4D56-A1C3-C5BE9F544213}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{0668A962-CC9E-4D56-A1C3-C5BE9F544213}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{0668A962-CC9E-4D56-A1C3-C5BE9F544213}.Release|x86.ActiveCfg = Release|Any CPU
+		{ED49E342-ACD9-40F4-B850-FD5F5DFC0C4A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{ED49E342-ACD9-40F4-B850-FD5F5DFC0C4A}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{ED49E342-ACD9-40F4-B850-FD5F5DFC0C4A}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{ED49E342-ACD9-40F4-B850-FD5F5DFC0C4A}.Debug|x86.ActiveCfg = Debug|x86
+		{ED49E342-ACD9-40F4-B850-FD5F5DFC0C4A}.Debug|x86.Build.0 = Debug|x86
+		{ED49E342-ACD9-40F4-B850-FD5F5DFC0C4A}.Release|Any CPU.ActiveCfg = Release|x86
+		{ED49E342-ACD9-40F4-B850-FD5F5DFC0C4A}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{ED49E342-ACD9-40F4-B850-FD5F5DFC0C4A}.Release|Mixed Platforms.Build.0 = Release|x86
+		{ED49E342-ACD9-40F4-B850-FD5F5DFC0C4A}.Release|x86.ActiveCfg = Release|x86
+		{ED49E342-ACD9-40F4-B850-FD5F5DFC0C4A}.Release|x86.Build.0 = Release|x86
+		{04CE66F9-3B26-4BA9-8F1C-980F821D32E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04CE66F9-3B26-4BA9-8F1C-980F821D32E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04CE66F9-3B26-4BA9-8F1C-980F821D32E2}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{04CE66F9-3B26-4BA9-8F1C-980F821D32E2}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{04CE66F9-3B26-4BA9-8F1C-980F821D32E2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{04CE66F9-3B26-4BA9-8F1C-980F821D32E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04CE66F9-3B26-4BA9-8F1C-980F821D32E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04CE66F9-3B26-4BA9-8F1C-980F821D32E2}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{04CE66F9-3B26-4BA9-8F1C-980F821D32E2}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{04CE66F9-3B26-4BA9-8F1C-980F821D32E2}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,57 @@
+﻿<Window x:Class="NetMag.RedesSociais.Notificador.Main"
+		xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+		xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		xmlns:l="clr-namespace:NetMag.RedesSociais.Notificador"
+        xmlns:forms="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+		Title="NetMag.RedesSociais.Notificador" 
+        UseLayoutRounding="True"
+        Background="{x:Null}" 
+        Height="358" 
+        Width="292" 
+        AllowsTransparency="True" 
+	    WindowStyle="None" 
+        WindowStartupLocation="CenterScreen"
+        Icon="/NetMag.RedesSociais.Notificador;component/Resources/App.ico">
+    <Grid>        
+        <Rectangle Stroke="Black" RadiusY="5.5" RadiusX="5.5" Margin="0,0,0,0">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="/NetMag.RedesSociais.Notificador;component/Resources/Images/Wallpaper/Background.jpg"/>
+            </Rectangle.Fill>
+        </Rectangle>        
+        <l:NotificationAreaIcon 
+                      Text="NetMag.RedesSociais.Notificador" 
+                      Icon="Resources\NotificationAreaIcon.ico"
+                      MouseDoubleClick="OnNotificationAreaIconDoubleClick" Margin="0,0,0,0">
+            <l:NotificationAreaIcon.MenuItems>
+                <forms:MenuItem Text="Open" Click="OnMenuItemOpenClick" DefaultItem="True" />
+                <forms:MenuItem Text="-" />
+                <forms:MenuItem Text="Exit" Click="OnMenuItemExitClick" />
+            </l:NotificationAreaIcon.MenuItems>
+        </l:NotificationAreaIcon>
+        <TextBox Height="26" HorizontalAlignment="Left" Margin="12,12,0,0" Name="PINCode"
+                 BorderBrush="{x:Null}" Background="Black" Foreground="White"
+                 VerticalAlignment="Top" Width="101" />
+        <Button Content="Definir PIN" Height="26" HorizontalAlignment="Right" 
+                FontFamily="Arial" 
+                    FontSize="10" 
+                    Foreground="Black" 
+                    BorderBrush="{x:Null}"
+                Margin="0,12,89,0" Name="DefinirPINCode" VerticalAlignment="Top" 
+                Width="70" Click="DefinirPINCode_Click" />
+        <ListView Height="230" HorizontalAlignment="Left" 
+                  BorderBrush="#FF706C6C"                  
+                  Margin="12,77,0,0" Name="listaAmigos" VerticalAlignment="Top" 
+                  Width="254" Background="#00000000" Foreground="White" IsEnabled="False" />        
+        <Button Content="Listar amigos" Height="23" FontFamily="Arial" FontSize="10" 
+                Foreground="Black"  BorderBrush="{x:Null}"
+                HorizontalAlignment="Left" Margin="12,48,0,0" Name="ListarAmigos"
+                VerticalAlignment="Top" Width="254" Click="ListarAmigos_Click" 
+                IsEnabled="False" />
+        <TextBlock Cursor="Hand" FontFamily="Arial" FontSize="13.333" 
+                   Foreground="White" Margin="251,0,16,284" Name="buttomMinimize" 
+                   Text="_" MouseLeftButtonDown="buttomMinimize_MouseLeftButtonDown" />
+        <TextBlock Cursor="Hand" FontFamily="Arial" FontSize="13.333" 
+                   Foreground="White" Margin="268,3,-9,281" Name="ButtonClose" 
+                   Text="x" MouseLeftButtonDown="ButtonClose_MouseLeftButtonDown" />        
+    </Grid>    
+</Window>

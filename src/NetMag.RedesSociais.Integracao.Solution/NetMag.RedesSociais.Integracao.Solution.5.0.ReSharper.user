@@ -1,0 +1,85 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Global.asax.cs" caret="0" fromTop="0" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Default.aspx" caret="406" fromTop="5" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:About.aspx" caret="388" fromTop="6" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Vimeo_Exemplo03.aspx.cs" caret="359" fromTop="15" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/d:Styles/f:Site.css" caret="0" fromTop="0" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:LinkedInBasePage.cs" caret="3439" fromTop="11" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Site.Master" caret="1589" fromTop="26" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Web.config" caret="921" fromTop="21" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Vimeo_Exemplo02.aspx" caret="1736" fromTop="18" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Vimeo_Exemplo01.aspx" caret="267" fromTop="1" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Vimeo_Exemplo03.aspx" caret="1419" fromTop="0" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:LinkedIn_Exemplo01.aspx" caret="375" fromTop="5" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:LinkedIn_Exemplo01.aspx.cs" caret="470" fromTop="15" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:LinkedIn_Exemplo02.aspx" caret="375" fromTop="1" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:LinkedIn_Exemplo02.aspx.cs" caret="364" fromTop="12" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Web.config" caret="2307" fromTop="34" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Site.Master" caret="1614" fromTop="26" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:LinkedIn_Exemplo01.aspx" caret="664" fromTop="6" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Vimeo_Exemplo02.aspx" caret="1853" fromTop="14" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Vimeo_Exemplo03.aspx" caret="3660" fromTop="8" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:LinkedIn_Exemplo01.aspx.cs" caret="13" fromTop="0" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:LinkedIn_Exemplo02.aspx.cs" caret="1433" fromTop="28" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:LinkedIn_Exemplo02.aspx.cs" caret="883" fromTop="24" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:LinkedIn_Exemplo02.aspx" caret="1455" fromTop="3" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:LinkedIn_Exemplo02.aspx" caret="1471" fromTop="33" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:LinkedIn_Exemplo02.aspx.cs" caret="854" fromTop="11" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:LinkedIn_Exemplo02.aspx.cs" caret="50" fromTop="1" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:LinkedIn_Exemplo02.aspx" caret="1447" fromTop="28" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:LinkedIn_Exemplo02.aspx" caret="1447" fromTop="21" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Web.config" caret="25" fromTop="1" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Web.config" caret="588" fromTop="10" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Vimeo_Exemplo01.aspx" caret="1222" fromTop="8" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Vimeo_Exemplo01.aspx" caret="1328" fromTop="20" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Vimeo_Exemplo01.aspx" caret="1222" fromTop="0" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Vimeo_Exemplo02.aspx" caret="267" fromTop="1" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Vimeo_Exemplo01.aspx" caret="267" fromTop="1" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Vimeo_Exemplo02.aspx" caret="1736" fromTop="18" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Vimeo_Exemplo03.aspx" caret="3400" fromTop="13" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Vimeo_Exemplo03.aspx" caret="3294" fromTop="0" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Vimeo_Exemplo03.aspx" caret="3294" fromTop="0" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:Vimeo_Exemplo03.aspx" caret="1419" fromTop="0" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:LinkedIn_Exemplo01.aspx" caret="375" fromTop="5" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:LinkedIn_Exemplo01.aspx.cs" caret="359" fromTop="11" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:LinkedIn_Exemplo02.aspx" caret="375" fromTop="1" />
+      <File id="F2AB857A-E42C-48C6-B63A-7FE891A92AE1/f:LinkedIn_Exemplo02.aspx.cs" caret="364" fromTop="3" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="using" priority="3" />
+      <Item value="LinkedIn" priority="2" />
+      <Item value="NetMag" priority="0" />
+      <Item value="RedesSociais" priority="0" />
+      <Item value="IntegracaoWeb" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Web" priority="0" />
+      <Item value="UI" priority="0" />
+      <Item value="Library" priority="0" />
+      <Item value="Page`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

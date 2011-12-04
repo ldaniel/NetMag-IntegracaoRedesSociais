@@ -1,0 +1,10 @@
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.Interfaces\bin\Debug\NetMag.RedesSociais.Interfaces.dll
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.Interfaces\bin\Debug\NetMag.RedesSociais.Interfaces.pdb
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.Interfaces\obj\Debug\NetMag.RedesSociais.Interfaces.dll
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.Interfaces\obj\Debug\NetMag.RedesSociais.Interfaces.pdb
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.Interfaces\bin\Debug\NetMag.RedesSociais.Interfaces.dll
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.Interfaces\bin\Debug\NetMag.RedesSociais.Interfaces.pdb
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.Interfaces\obj\Debug\NetMag.RedesSociais.Interfaces.dll
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.Interfaces\obj\Debug\NetMag.RedesSociais.Interfaces.pdb

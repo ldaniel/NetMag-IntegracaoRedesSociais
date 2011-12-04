@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="NetMag.RedesSociais.IntegracaoWeb.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title>Redes Sociais - Exemplos de Integração</title>
+    <meta charset="utf-8">
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>    
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                    .net Magazine - Redes Sociais - Exemplos de Integração
+                </h1>
+            </div>            
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Vimeo_Exemplo01.aspx" Text="Vimeo - Exemplo 1"/>
+                        <asp:MenuItem NavigateUrl="~/Vimeo_Exemplo02.aspx" Text="Vimeo - Exemplo 2"/>
+                        <asp:MenuItem NavigateUrl="~/Vimeo_Exemplo03.aspx" Text="Vimeo - Exemplo 3"/>
+                        <asp:MenuItem NavigateUrl="~/LinkedIn_Exemplo01.aspx" Text="LinkedIn - Exemplo 1"/>
+                        <asp:MenuItem NavigateUrl="~/LinkedIn_Exemplo02.aspx" Text="LinkedIn - Exemplo 2"/>
+                        <asp:MenuItem NavigateUrl="~/About.aspx" Text="Sobre"/>
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>

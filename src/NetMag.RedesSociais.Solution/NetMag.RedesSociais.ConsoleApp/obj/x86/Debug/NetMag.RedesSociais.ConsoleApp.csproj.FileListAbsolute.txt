@@ -1,0 +1,38 @@
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\NetMag.RedesSociais.ConsoleApp.exe.config
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\NetMag.RedesSociais.ConsoleApp.exe
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\NetMag.RedesSociais.ConsoleApp.pdb
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\NetMag.RedesSociais.Core.dll
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\NetMag.RedesSociais.Interfaces.dll
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\LinqToTwitter.dll
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\TweetSharp.Twitter.dll
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\TweetSharp.dll
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\Kerr.Credentials.dll
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\NetMag.RedesSociais.Core.pdb
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\NetMag.RedesSociais.Interfaces.pdb
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\obj\x86\Debug\NetMag.RedesSociais.ConsoleApp.exe
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\obj\x86\Debug\NetMag.RedesSociais.ConsoleApp.pdb
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\Hammock.dll
+C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\NetMag.RedesSociais.ConsoleApp.exe.config
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\obj\x86\Debug\NetMag.RedesSociais.ConsoleApp.exe
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\obj\x86\Debug\NetMag.RedesSociais.ConsoleApp.pdb
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\NetMag.RedesSociais.ConsoleApp.exe
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\NetMag.RedesSociais.ConsoleApp.pdb
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\NetMag.RedesSociais.Core.dll
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\NetMag.RedesSociais.Interfaces.dll
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\TweetSharp.Twitter.dll
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\TweetSharp.dll
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\LinqToTwitter.dll
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\Hammock.dll
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\Kerr.Credentials.dll
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\NetMag.RedesSociais.Core.pdb
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\NetMag.RedesSociais.Interfaces.pdb
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Leandro\Work\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Solution\NetMag.RedesSociais.ConsoleApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
