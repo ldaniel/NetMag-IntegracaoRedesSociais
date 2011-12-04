@@ -1,6 +1,0 @@
-C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Exemplos.Solution\NetMag.RedesSociais.Exemplos.Flickr\bin\Debug\NetMag.RedesSociais.Exemplos.Flickr.exe
-C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Exemplos.Solution\NetMag.RedesSociais.Exemplos.Flickr\bin\Debug\NetMag.RedesSociais.Exemplos.Flickr.pdb
-C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Exemplos.Solution\NetMag.RedesSociais.Exemplos.Flickr\bin\Debug\FlickrNet.dll
-C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Exemplos.Solution\NetMag.RedesSociais.Exemplos.Flickr\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Exemplos.Solution\NetMag.RedesSociais.Exemplos.Flickr\obj\x86\Debug\NetMag.RedesSociais.Exemplos.Flickr.exe
-C:\Users\Leandro Daniel\Artigos\DevMedia\.net Magazine\Minicurso\NetMag.RedesSociais.Exemplos.Solution\NetMag.RedesSociais.Exemplos.Flickr\obj\x86\Debug\NetMag.RedesSociais.Exemplos.Flickr.pdb
